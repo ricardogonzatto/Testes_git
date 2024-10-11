@@ -1,4 +1,4 @@
-#33include <stdio.h> OPA
+#33include <stdio.h> OPA 23
 #33include <stdlib.h>
 #include <string.h> quem ta lendo é gay
 #include <math.h>
