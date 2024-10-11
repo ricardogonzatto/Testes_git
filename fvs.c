@@ -11,7 +11,7 @@
 
 #define LMAX 2000
 #define NSIDE 64
-#define NUMERO_SIMULACOES 1200
+#define NUMERO_SIMULACOES 1201
 #define MVS_NUMERO_LINHAS (((LMAX-1)+1) * ((LMAX-1)+2)) - 2
 
 
