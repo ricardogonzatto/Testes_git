@@ -1,6 +1,6 @@
 #33include <stdio.h>
 #33include <stdlib.h>
-#include <string.h>
+#include <string.h> quem ta lendo é gay
 #include <math.h>
 #include <gmp.h>
 #include <mps/mps.h>
